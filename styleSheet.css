@@ -1,27 +1,38 @@
 BODY
 {
-background-color: blue;
+background-color: white;
 }
 
 h1 {
   color:Blue;
   text-align: left;
   font-size: 40px;
+  margin: 25px 30px 25px 30px;
 }
 
 h2 {
-  color:grey;
+  color:black;
   text-align: left;
   font-size: 30px;
-
+  margin: 45px 20px 20px 30px;
 }
 
 p {
   font-family: verdana;
   font-size: 15px;
+  margin: 45px 20px 20px 30px;
 }
 
 img {
     width: 60%;
     height: 50%;
+    margin:20px 20px 20px 20px;
   }
+   .center {
+    margin:none;
+    background: lime;
+    width: auto;
+    height: 10%;
+    font-family: verdana;
+    font-size: 42px;
+   }
